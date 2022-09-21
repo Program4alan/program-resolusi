@@ -1,4 +1,4 @@
-hello world in cpp
+hello world in c++
 javascript:
 - ES6
 - arrow function
